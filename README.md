@@ -1,0 +1,2 @@
+# Masomazo
+written in Japanese
